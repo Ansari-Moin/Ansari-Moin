@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an Integrated MCA student with a strong interest in AI systems, data engineering, scalable software architecture, and MLOps. I enjoy building practical, production-oriented projects and continuously expanding my understanding of computer science fundamentals. My current focus is on Python, data engineering, distributed systems, and machine learning workflows, with long-term aspirations in AI research and R&D. I participate in hackathons and technical competitions to learn, collaborate, and solve real-world problems while continuously improving my engineering skills.
+
 <!--
 **Ansari-Moin/Ansari-Moin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
