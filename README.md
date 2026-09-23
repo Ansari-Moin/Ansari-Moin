@@ -24,27 +24,27 @@ I'm an **Integrated MCA student** focused on understanding how software systems 
 My current engineering path sits at the intersection of:
 
 ```text
-                 ┌─────────────────────────────┐
-                 │        AI SYSTEMS           │
-                 │   Research • ML • LLMs      │
-                 └──────────────┬──────────────┘
-                                │
-                ┌───────────────┴───────────────┐
-                │                               │
-        ┌───────▼────────┐             ┌────────▼─────────┐
-        │     MLOps      │             │ Data Engineering │
-        │  ML Pipelines  │             │   Data • Spark   │
-        │   Deployment   │             │   Distributed    │
-        └───────┬────────┘             └────────┬─────────┘
-                │                               │
-                └───────────────┬───────────────┘
-                                │
-                       ┌────────▼────────┐
-                       │    SOFTWARE     │
-                       │   ENGINEERING   │
-                       │  Architecture   │
-                       │  Systems Design │
-                       └─────────────────┘
+                    ┌─────────────────────────────┐
+                    │        AI SYSTEMS           │
+                    │   Research • ML • LLMs      │
+                    └──────────────┬──────────────┘
+                                   │
+                   ┌───────────────┴───────────────┐
+                   │                               │
+           ┌───────▼────────┐             ┌────────▼─────────┐
+           │     MLOps      │             │ Data Engineering │
+           │  ML Pipelines  │             │   Data • Spark   │
+           │   Deployment   │             │   Distributed    │
+           └───────┬────────┘             └────────┬─────────┘
+                   │                               │
+                   └───────────────┬───────────────┘
+                                   │
+                          ┌────────▼────────┐
+                          │    SOFTWARE     │
+                          │   ENGINEERING   │
+                          │  Architecture   │
+                          │  Systems Design │
+                          └─────────────────┘
 ```
 
 I enjoy going beyond simply making applications work.
@@ -219,33 +219,33 @@ Built during **WebRush — 6-Hour Frontend Hackathon**.
 I prefer a **build → break → debug → understand → improve** workflow.
 
 ```text
-       ┌──────────────┐
-       │ Learn Concept│
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Build It   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Break It   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ Debug & Trace│
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │  Understand  │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Refactor   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │  Ship It     │
-       └──────────────┘
+           ┌──────────────┐
+           │ Learn Concept│
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │   Build It   │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │   Break It   │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │ Debug & Trace│
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │  Understand  │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │   Refactor   │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │  Ship It     │
+           └──────────────┘
 ```
 
 I care about **fundamentals, readable code, system behavior, debugging, and practical implementation** rather than simply collecting technologies.
@@ -278,25 +278,25 @@ Computer Networks ─┼─ Databases
 ## 🏗️ Engineering Philosophy
 
 ```text
-                ┌──────────────────┐
-                │   Fundamentals   │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Clean Engineering│
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Scalable Systems │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │  Reliable Infra  │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │  Production AI   │
-                └──────────────────┘
+                   ┌──────────────────┐
+                   │   Fundamentals   │
+                   └────────┬─────────┘
+                            ↓
+                   ┌──────────────────┐
+                   │ Clean Engineering│
+                   └────────┬─────────┘
+                            ↓
+                   ┌──────────────────┐
+                   │ Scalable Systems │
+                   └────────┬─────────┘
+                            ↓
+                   ┌──────────────────┐
+                   │  Reliable Infra  │
+                   └────────┬─────────┘
+                            ↓
+                   ┌──────────────────┐
+                   │  Production AI   │
+                   └──────────────────┘
 ```
 
 **Build software that works.
@@ -351,40 +351,40 @@ These experiences help me connect **academic concepts with real engineering cons
 ## 🌌 My Roadmap
 
 ```text
-                         ┌───────────────────┐
-                         │    AI RESEARCH    │
-                         │       & R&D       │
-                         └─────────▲─────────┘
-                                   │
-                         ┌─────────┴─────────┐
-                         │   AI SYSTEMS &    │
-                         │   SCALABLE ML     │
-                         └─────────▲─────────┘
-                                   │
-                    ┌──────────────┴──────────────┐
-                    │                             │
-              ┌─────▼─────┐                 ┌─────▼─────┐
-              │   MLOps   │                 │  LLMOps   │
-              └─────▲─────┘                 └─────▲─────┘
-                    │                             │
-                    └──────────────┬──────────────┘
-                                   │
-                         ┌─────────▼─────────┐
-                         │  DATA ENGINEERING │
-                         │   & DISTRIBUTED   │
-                         │      SYSTEMS      │
-                         └─────────▲─────────┘
-                                   │
-                         ┌─────────┴─────────┐
-                         │     SOFTWARE      |
-                         |    ENGINEERING    |
-                         │   & ARCHITECTURE  |
-                         └─────────▲─────────┘
-                                   │
-                         ┌─────────┴─────────┐
-                         │ COMPUTER SCIENCE  │
-                         │   FUNDAMENTALS    │
-                         └───────────────────┘
+                            ┌───────────────────┐
+                            │    AI RESEARCH    │
+                            │       & R&D       │
+                            └─────────▲─────────┘
+                                      │
+                            ┌─────────┴─────────┐
+                            │   AI SYSTEMS &    │
+                            │   SCALABLE ML     │
+                            └─────────▲─────────┘
+                                      │
+                       ┌──────────────┴──────────────┐
+                       │                             │
+                 ┌─────▼─────┐                 ┌─────▼─────┐
+                 │   MLOps   │                 │  LLMOps   │
+                 └─────▲─────┘                 └─────▲─────┘
+                       │                             │
+                       └──────────────┬──────────────┘
+                                      │
+                            ┌─────────▼─────────┐
+                            │  DATA ENGINEERING │
+                            │   & DISTRIBUTED   │
+                            │      SYSTEMS      │
+                            └─────────▲─────────┘
+                                      │
+                            ┌─────────┴─────────┐
+                            │     SOFTWARE      |
+                            |    ENGINEERING    |
+                            │   & ARCHITECTURE  |
+                            └─────────▲─────────┘
+                                      │
+                            ┌─────────┴─────────┐
+                            │ COMPUTER SCIENCE  │
+                            │   FUNDAMENTALS    │
+                            └───────────────────┘
 ```
 
 ---
