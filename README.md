@@ -325,20 +325,25 @@ These experiences help me connect **academic concepts with real engineering cons
 
 <p align="center">
   <img
-    src="https://YOUR-STATS-APP.vercel.app/api?username=Ansari-Moin&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=Ansari-Moin&layout=compact&hide_border=true&theme=transparent"
-    height="170"
+    src="https://streak-stats.demolab.com/?user=Ansari-Moin&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ansari-Moin&hide_border=true&theme=transparent"
-    height="180"
-  />
+  <a href="https://github.com/Ansari-Moin">
+    <img
+      src="https://img.shields.io/github/followers/Ansari-Moin?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub Followers"
+    />
+  </a>
+  <a href="https://github.com/Ansari-Moin?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/Ansari-Moin?style=for-the-badge&logo=github&label=Stars"
+      alt="GitHub Stars"
+    />
+  </a>
 </p>
 
 ---
