@@ -31,19 +31,19 @@ My current engineering path sits at the intersection of:
                                 │
                 ┌───────────────┴───────────────┐
                 │                               │
-        ┌───────▼────────┐             ┌────────▼───────┐
-        │     MLOps      │             │ Data Engineering│
-        │ ML Pipelines   │             │ Data • Spark    │
-        │ Deployment     │             │ Distributed     │
-        └───────┬────────┘             └────────┬────────┘
+        ┌───────▼────────┐             ┌────────▼─────────┐
+        │     MLOps      │             │ Data Engineering │
+        │  ML Pipelines  │             │   Data • Spark   │
+        │   Deployment   │             │   Distributed    │
+        └───────┬────────┘             └────────┬─────────┘
                 │                               │
                 └───────────────┬───────────────┘
                                 │
                        ┌────────▼────────┐
-                       │   SOFTWARE      │
+                       │    SOFTWARE     │
                        │   ENGINEERING   │
-                       │ Architecture    │
-                       │ Systems Design  │
+                       │  Architecture   │
+                       │  Systems Design │
                        └─────────────────┘
 ```
 
@@ -224,11 +224,11 @@ I prefer a **build → break → debug → understand → improve** workflow.
        └──────┬───────┘
               ↓
        ┌──────────────┐
-       │ Build It     │
+       │   Build It   │
        └──────┬───────┘
               ↓
        ┌──────────────┐
-       │ Break It     │
+       │   Break It   │
        └──────┬───────┘
               ↓
        ┌──────────────┐
@@ -236,15 +236,15 @@ I prefer a **build → break → debug → understand → improve** workflow.
        └──────┬───────┘
               ↓
        ┌──────────────┐
-       │ Understand   │
+       │  Understand  │
        └──────┬───────┘
               ↓
        ┌──────────────┐
-       │ Refactor     │
+       │   Refactor   │
        └──────┬───────┘
               ↓
        ┌──────────────┐
-       │ Ship It 🚀   │
+       │  Ship It     │
        └──────────────┘
 ```
 
@@ -278,25 +278,25 @@ Computer Networks ─┼─ Databases
 ## 🏗️ Engineering Philosophy
 
 ```text
-                ┌─────────────────┐
-                │   Fundamentals  │
-                └────────┬────────┘
+                ┌──────────────────┐
+                │   Fundamentals   │
+                └────────┬─────────┘
                          ↓
-                ┌─────────────────┐
+                ┌──────────────────┐
                 │ Clean Engineering│
-                └────────┬────────┘
+                └────────┬─────────┘
                          ↓
-                ┌─────────────────┐
+                ┌──────────────────┐
                 │ Scalable Systems │
-                └────────┬────────┘
+                └────────┬─────────┘
                          ↓
-                ┌─────────────────┐
-                │ Reliable Infra  │
-                └────────┬────────┘
+                ┌──────────────────┐
+                │  Reliable Infra  │
+                └────────┬─────────┘
                          ↓
-                ┌─────────────────┐
-                │ Production AI   │
-                └─────────────────┘
+                ┌──────────────────┐
+                │  Production AI   │
+                └──────────────────┘
 ```
 
 **Build software that works.
@@ -344,26 +344,27 @@ These experiences help me connect **academic concepts with real engineering cons
                                    │
                          ┌─────────┴─────────┐
                          │   AI SYSTEMS &    │
-                         │ SCALABLE ML       │
+                         │   SCALABLE ML     │
                          └─────────▲─────────┘
                                    │
                     ┌──────────────┴──────────────┐
                     │                             │
               ┌─────▼─────┐                 ┌─────▼─────┐
-              │   MLOps   │                 │ LLMOps    │
+              │   MLOps   │                 │  LLMOps   │
               └─────▲─────┘                 └─────▲─────┘
                     │                             │
                     └──────────────┬──────────────┘
                                    │
                          ┌─────────▼─────────┐
-                         │ DATA ENGINEERING  │
-                         │ & DISTRIBUTED     │
-                         │ SYSTEMS           │
+                         │  DATA ENGINEERING │
+                         │   & DISTRIBUTED   │
+                         │      SYSTEMS      │
                          └─────────▲─────────┘
                                    │
                          ┌─────────┴─────────┐
-                         │ SOFTWARE ENGINEERING│
-                         │ & ARCHITECTURE     │
+                         │     SOFTWARE      |
+                         |    ENGINEERING    |
+                         │   & ARCHITECTURE  |
                          └─────────▲─────────┘
                                    │
                          ┌─────────┴─────────┐
