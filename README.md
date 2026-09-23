@@ -326,11 +326,11 @@ These experiences help me connect **academic concepts with real engineering cons
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ansari-Moin&show_icons=true&hide_border=true&theme=transparent"
-    height="180"
+    height="170"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari-Moin&layout=compact&hide_border=true&theme=transparent"
-    height="180"
+    height="170"
   />
 </p>
 
@@ -339,10 +339,6 @@ These experiences help me connect **academic concepts with real engineering cons
     src="https://streak-stats.demolab.com?user=Ansari-Moin&hide_border=true&theme=transparent"
     height="180"
   />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansari-Moin&theme=transparent&hide_border=true" />
 </p>
 
 ---
